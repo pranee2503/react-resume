@@ -1,0 +1,75 @@
+{
+	"profiles":[
+		{
+			"basics":{
+				"name":"Chakri Lakkimsetti",
+				"role":"Designer",
+				"email":"chakrilakkimsetti@gmail.com",
+				"mobile":"7730075753",
+				"gender":"male",
+				"address":"Hyderabad"	
+			},
+			"summary":[
+				"I have a knowledge on C, Java and Python",
+				"Having knowledge on Autocad",
+				"Attended workshops on Python, github",
+				"Completed intern on Autocad",
+				"Active participation in projects and workshops",
+				"I have a 2 year work experience with autocad"
+			],
+			"education":[
+				{
+					"degree":"	BTech (Electronics and Communication Engineering",
+					"institite":"Aditya Engineering College",
+					"result":"9 cgpa"
+				}, 
+				{
+					"degree":"Intermediate (MPC)",
+					"institite":"Aditya Junior College",
+					"result":"98.2 %"
+				} ,
+				{
+					"degree":"S.S.C",
+					"institite":"Narayana Techno School",
+					"result":"10 cgpa"
+				}
+			]
+		},
+		{
+			"basics":{
+				"name":"Praneetha Lakkimsetti",
+				"role":"Student",
+				"email":"praneethalakkimsetti@gmail.com",
+				"mobile":"7993778964",
+				"gender":"female",
+				"address":"Amalapuram, Andhrapradesh"
+			},
+			"summary":[
+				"I have a knowledge on C and Python",
+				"Having knowledge on HTML5, CSS",
+				"Attended workshops on web designing using reactjs, github, Iot",
+				"Completed intern on Internet of Things",
+				"One of my idea has been selected by StartUp India under district level",
+				"Active participation in hackathons,projects and workshops"
+			],
+			"education":[
+				{
+					"degree":"	BTech (Electronics and Communication Engineering",
+					"institite":"Aditya Engineering College",
+					"result":"9 cgpa"
+				}, 
+				{
+					"degree":"Intermediate (MPC)",
+					"institite":"Aditya Junior College",
+					"result":"98.2 %"
+				} ,
+				{
+					"degree":"S.S.C",
+					"institite":"Narayana Techno School",
+					"result":"10 cgpa"
+				}
+			]
+
+		}
+	]
+}
